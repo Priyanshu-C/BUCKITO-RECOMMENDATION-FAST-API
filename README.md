@@ -1,4 +1,7 @@
 **// Upgrade pip before install fastapi //**
+python -m venv fastapi
+
+**// Upgrade pip before install fastapi //**
 python -m pip install --upgrade pip
 
 **// To run the server //**
