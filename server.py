@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from typing import Optional,List
 from pydantic import BaseModel
+from content import recommendation
 
 # %%
 app = FastAPI()
@@ -10,24 +11,14 @@ class Content(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Hello Friends Chai Pii Lo"}
+
 
 @app.post("/movie")
-async def movie(data:Content):
-    
-    return {"data":data}
+async def movie(data: str):
+
+    results = recommendation(data)
+    return {"data": results}
 
 
-# class Item(BaseModel):
-#     name: str
-#     description: Optional[str] = None
-#     price: float
-#     tax: Optional[float] = None
 
-
-# app = FastAPI()
-
-
-# @app.post("/items/")
-# async def create_item(item: Item):
-#     return item
