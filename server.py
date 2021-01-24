@@ -9,15 +9,16 @@ app = FastAPI()
 class Content(BaseModel):
     movie: str
 
+
 @app.get("/")
 async def root():
     return {"message": "Hello Friends Chai Pii Lo"}
 
 
 @app.post("/movie")
-async def movie(data: str):
-
-    results = recommendation(data)
+async def movie(movie: str):
+    print("Recommending on movie -- "+movie)
+    results = recommendation(movie)
     return {"data": results}
 
 
