@@ -12,7 +12,7 @@ class Content(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "Hello Friends Chai Pii Lo"}
+    return {"message": "Go to /docs to open swagger UI, Thank you."}
 
 
 @app.post("/movie")
