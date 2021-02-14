@@ -38,7 +38,8 @@ This type of recommendation systems, takes in a movie that a user currently like
 This algorithm at first tries to find similar users based on their activities and preferences (for example, both the users watch same type of movies or movies directed by the same director). Now, between these users(say, A and B) if user A has seen a movie that user B has not seen yet, then that movie gets recommended to user B and vice-versa. In other words, the recommendations get filtered based on the collaboration between similar user’s preferences (thus, the name “Collaborative Filtering”). One typical application of this algorithm can be seen in the Amazon e-commerce platform, where you get to see the “Customers who viewed this item also viewed” and “Customers who bought this item also bought” list.
 
 
-[REACT REPOSITORY](https://github.com/Priyanshu-C/BUCKITO)
+[REACT REPOSITORY](https://github.com/Priyanshu-C/BUCKITO) :stars:\
+This Repository Contains Fronted and Backend Implementation of this Application.	:triangular_flag_on_post:
 
 ### HOW TO RUN FASTAPI
 **Upgrade pip before install fastapi**
