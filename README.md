@@ -1,6 +1,13 @@
 
 # BUCKITO : A MOVIE RECOMMENDATION ENGINE  :movie_camera:
 
+![Python](https://img.shields.io/badge/Python-3.7-blue)
+![Notebook](https://img.shields.io/badge/Notebook-Colab-orange)
+![Framework](https://img.shields.io/badge/Framework-FastAPI-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![Cloud](https://img.shields.io/badge/Cloud-HIROKU-orange)
+![Cloud](https://img.shields.io/badge/API-TMDB-yellow)
+
 **FIND INCREDIBLE MOVIES TO WATCH** :clapper::v:
 
 Have you ever wondered how Netflix manages to recommend so many random movies that all somehow fit your preferences in one way or another? Most, if not all, of it has to do with data science, but more specifically, big data, machine learning, and artificial intelligence.Taking Netflix's Recommendation we'have also planned build our own.In this Project, we are going to Build a Movie Recommendation a hybrid Movie Recommendation Engine as there various kind of Recommendation Like Content and Collabrative filtering,The dataset we are going to we have used is the Movie dataset Online available which have Almost 4800+ Movies and movies upto 2017 and and also have collected remaining data of years 2018-2020 from wikipidia,We have also used The Movie database(TMDB) API for other importent details.
