@@ -7,8 +7,10 @@ Have you ever wondered how Netflix manages to recommend so many random movies th
 
 
 ### TRY OUT OUR WEB-APPLICATION 
-[BUCKITO](http://buckito.hashigma.com/):purple_heart:\
-Beautiful isn't it.
+-If you want to view the deployed model, click on the FOLLOWING LINK
+ [BUCKITO](http://buckito.hashigma.com/):purple_heart:\
+ Beautiful isn't it.\
+-If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "Movie Recommendation System.ipynb" file.
 
 ### SCREENSHOTS
 ![Landing_page](/Images/4.PNG)
