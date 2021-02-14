@@ -6,13 +6,13 @@
 Have you ever wondered how Netflix manages to recommend so many random movies that all somehow fit your preferences in one way or another? Most, if not all, of it has to do with data science, but more specifically, big data, machine learning, and artificial intelligence.Taking Netflix's Recommendation we'have also planned build our own.In this Project, we are going to Build a Movie Recommendation a hybrid Movie Recommendation Engine as there various kind of Recommendation Like Content and Collabrative filtering,The dataset we are going to we have used is the Movie dataset Online available which have Almost 4800+ Movies and movies upto 2017 and and also have collected remaining data of years 2018-2020 from wikipidia,We have also used The Movie database(TMDB) API for other importent details.
 
 
-### TRY OUT OUR WEB-APPLICATION 
+### TRY OUT OUR WEB-APPLICATION :fire:
 -If you want to view the deployed model, click on the FOLLOWING LINK
  [BUCKITO](http://buckito.hashigma.com/):purple_heart:\
  Beautiful isn't it.\
--If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "Movie Recommendation System.ipynb" file.
+-If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "FinalModel.ipynb" file inside Notebook Folder.
 
-### SCREENSHOTS
+### SCREENSHOTS :fireworks:
 ![Landing_page](/Images/4.PNG)
 ![Popular_page](/Images/2.PNG)
 ![Modale](/Images/3.PNG)
