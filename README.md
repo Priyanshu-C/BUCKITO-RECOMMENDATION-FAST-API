@@ -5,6 +5,7 @@
 ![Notebook](https://img.shields.io/badge/Notebook-Colab-orange)
 ![Framework](https://img.shields.io/badge/Framework-FastAPI-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![Backend](https://img.shields.io/badge/Backend-Node/GraphQl/JS-green)
 ![Cloud](https://img.shields.io/badge/Cloud-HIROKU-orange)
 ![Cloud](https://img.shields.io/badge/API-TMDB-yellow)
 
